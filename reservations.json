@@ -1,0 +1,162 @@
+[
+  {
+    "DTSTART": "20240226T090000Z",
+    "ATTENDEE": "mailto:tomdurie24@gmail.com",
+    "DTSTAMP": "20240219T232123048Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "12269bf8"
+  },
+  {
+    "DTSTART": "20240307T090000Z",
+    "ATTENDEE": "mailto:alecdoody@gmail.com",
+    "DTSTAMP": "20240219T232143381Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CANCELLED",
+    "confirmationCode": "43b616a0"
+  },
+  {
+    "DTSTART": "20240229T090000Z",
+    "ATTENDEE": "mailto:sobthebob@gmail.com",
+    "DTSTAMP": "20240219T232219391Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "6f8984de"
+  },
+  {
+    "DTSTART": "20240301T090000Z",
+    "ATTENDEE": "mailto:kohlsworkday@gmail.com",
+    "DTSTAMP": "20240219T232239082Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "eafb32f1"
+  },
+  {
+    "DTSTART": "20240304T090000Z",
+    "ATTENDEE": "mailto:bruhHowManyMoreReservationsDoINeed@hotmail.com",
+    "DTSTAMP": "20240219T232332936Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "36baff57"
+  },
+  {
+    "DTSTART": "20240304T090000Z",
+    "ATTENDEE": "mailto:bruh@gmail.com",
+    "DTSTAMP": "20240219T232358167Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CANCELLED",
+    "confirmationCode": "d5f7f53d"
+  },
+  {
+    "DTSTART": "20240305T090000Z",
+    "ATTENDEE": "mailto:yoooooo@gmail.com",
+    "DTSTAMP": "20240219T232938293Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "35c2f174"
+  },
+  {
+    "DTSTART": "20240315T090000Z",
+    "ATTENDEE": "mailto:bobslob@gmail.com",
+    "DTSTAMP": "20240220T025525986Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CANCELLED",
+    "confirmationCode": "993b9243"
+  },
+  {
+    "DTSTART": "20240315T090000Z",
+    "ATTENDEE": "mailto:888@hotmail.com",
+    "DTSTAMP": "20240220T025550964Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "25ac2ea7"
+  },
+  {
+    "DTSTART": "20240705T090000Z",
+    "ATTENDEE": "mailto:test@example.com",
+    "DTSTAMP": "20240220T030522393Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CANCELLED",
+    "confirmationCode": "e009d954"
+  },
+  {
+    "DTSTART": "20240704T090000Z",
+    "ATTENDEE": "mailto:holiday@example.com",
+    "DTSTAMP": "20240220T030522424Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "bad66412"
+  },
+  {
+    "DTSTART": "20240404T090000Z",
+    "ATTENDEE": "mailto:lol@gmail.com",
+    "DTSTAMP": "20240220T034158474Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CANCELLED",
+    "confirmationCode": "c8c8ac5b"
+  },
+  {
+    "DTSTART": "20240508T090000Z",
+    "ATTENDEE": "mailto:lollllzz@gmail.com",
+    "DTSTAMP": "20240220T034332780Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CANCELLED",
+    "confirmationCode": "48563a77"
+  },
+  {
+    "DTSTART": "20240703T090000Z",
+    "ATTENDEE": "mailto:yooogaming@gmail.com",
+    "DTSTAMP": "20240220T042012144Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "7c8b1b83"
+  },
+  {
+    "DTSTART": "20240705T090000Z",
+    "ATTENDEE": "mailto:mailto:tomdurie24@gmail.com",
+    "DTSTAMP": "20240220T042813114Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "9d9cba5b"
+  },
+  {
+    "DTSTART": "20240704T090000Z",
+    "ATTENDEE": "mailto:holiday@example.com",
+    "DTSTAMP": "20240220T042813125Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "084eb192"
+  },
+  {
+    "DTSTART": "20240705T090000Z",
+    "ATTENDEE": "mailto:mailto:tomdurie24@gmail.com",
+    "DTSTAMP": "20240220T042849018Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "422c8422"
+  },
+  {
+    "DTSTART": "20240704T090000Z",
+    "ATTENDEE": "mailto:holiday@example.com",
+    "DTSTAMP": "20240220T042849020Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "92fe913c"
+  },
+  {
+    "DTSTART": "20240705T090000Z",
+    "ATTENDEE": "mailto:mailto:tomdurie24@gmail.com",
+    "DTSTAMP": "20240220T042943108Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "607e5413"
+  },
+  {
+    "DTSTART": "20240704T090000Z",
+    "ATTENDEE": "mailto:holiday@example.com",
+    "DTSTAMP": "20240220T042943110Z",
+    "METHOD": "REQUEST",
+    "STATUS": "CONFIRMED",
+    "confirmationCode": "acdeb47d"
+  }
+]
