@@ -1,4 +1,3 @@
-**IMPORTANT**: Including the 'cred.env' file is critical for email notifications to actually work. If this is not included, then this portion of the program will not function as it contains the token for Google authentication for the burner email address.
 
 **IMPORTANT**: Remember, if you want to test email notifications, please first use the 'update-emails' API endpoint to update the email to an email you have access to. Otherwise, the emails will be sent to newdoctor@example.com and newsecretary@example.com respectively!
 
